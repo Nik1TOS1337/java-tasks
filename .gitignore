@@ -4,3 +4,5 @@
 .idea
 pom.xml
 target
+/out
+/lib
